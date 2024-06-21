@@ -1,0 +1,51 @@
+[
+  {
+    "name": "John Doe",
+    "address": "123 Main St",
+    "phoneNumber": "555-1234",
+    "dob": "01/01/1990",
+    "avatar": "file:///android_asset/cat.png"
+  },
+  {
+    "name": "Jane Smith",
+    "address": "456 Oak Ave",
+    "phoneNumber": "555-5678",
+    "dob": "02/02/1991",
+    "avatar": "file:///android_asset/dog.png"
+  },
+  {
+    "name": "Emily Johnson",
+    "address": "789 Pine Rd",
+    "phoneNumber": "555-9101",
+    "dob": "03/03/1992",
+    "avatar": "file:///android_asset/owl.png"
+  },
+  {
+    "name": "Michael Brown",
+    "address": "321 Cedar Blvd",
+    "phoneNumber": "555-1122",
+    "dob": "04/04/1993",
+    "avatar": "file:///android_asset/lion.png"
+  },
+  {
+    "name": "Sarah Davis",
+    "address": "654 Maple Ave",
+    "phoneNumber": "555-3344",
+    "dob": "05/05/1994",
+    "avatar": "file:///android_asset/cat.png"
+  },
+  {
+    "name": "David Wilson",
+    "address": "987 Birch St",
+    "phoneNumber": "555-5566",
+    "dob": "06/06/1995",
+    "avatar": "file:///android_asset/dog.png"
+  },
+  {
+    "name": "Linda Martinez",
+    "address": "135 Elm St",
+    "phoneNumber": "555-7788",
+    "dob": "07/07/1996",
+    "avatar": "file:///android_asset/owl.png"
+  }
+]
