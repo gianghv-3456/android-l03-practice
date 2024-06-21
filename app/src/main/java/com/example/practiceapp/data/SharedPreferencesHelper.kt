@@ -37,4 +37,10 @@ class SharedPreferencesHelper(context: Context) {
         }
     }
 
+    suspend fun clearLoginState() {
+        dataStore.edit { preferences ->
+            preferences.remove(IS_LOGGED_IN)
+        }
+    }
+
 }
